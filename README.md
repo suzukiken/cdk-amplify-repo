@@ -3,4 +3,4 @@
 * `npm install`
 * `npm start`
 
-[description](https://figmentresearch.com/aws/cdkamplify-repo)
+[description](https://note.figmentresearch.com/aws/cdkamplify-repo)
